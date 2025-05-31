@@ -1,4 +1,5 @@
 # 《程序员的三十六计》The-36-Stratagems-for-Programmers
+![36_front_cover](https://github.com/user-attachments/assets/27e197e0-60b2-4a83-b8bc-19963ff78103)
 
 ## The 36 Stratagems for Programmers 《程序员的三十六计》
 
