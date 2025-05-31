@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十计：笑里藏刀
 
 Stratagem 10: Hide a Dagger Behind a Smile
