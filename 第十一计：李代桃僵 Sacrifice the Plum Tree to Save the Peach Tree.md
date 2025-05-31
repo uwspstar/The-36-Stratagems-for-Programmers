@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十一计：李代桃僵
 
 Stratagem 11: Sacrifice the Plum Tree to Save the Peach Tree
