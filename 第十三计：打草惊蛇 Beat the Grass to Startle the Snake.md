@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十三计：打草惊蛇
 
 Stratagem 13: Beat the Grass to Startle the Snake
