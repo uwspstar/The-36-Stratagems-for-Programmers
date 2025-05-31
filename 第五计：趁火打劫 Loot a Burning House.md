@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第五计：趁火打劫
 
 Stratagem 05: Loot a Burning House
