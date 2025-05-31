@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十二计：顺手牵羊
 
 Stratagem 12: Take the Opportunity to Steal a Goat
