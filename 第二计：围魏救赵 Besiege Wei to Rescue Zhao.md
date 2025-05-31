@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二计：围魏救赵
 
 Stratagem 02: Besiege Wei to Rescue Zhao
