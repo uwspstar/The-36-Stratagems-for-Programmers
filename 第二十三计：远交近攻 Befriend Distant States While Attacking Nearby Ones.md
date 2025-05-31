@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十三计：远交近攻
 
 Stratagem 23: Befriend Distant States While Attacking Nearby Ones
