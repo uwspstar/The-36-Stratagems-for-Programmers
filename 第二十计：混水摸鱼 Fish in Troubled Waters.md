@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十计：混水摸鱼
 
 Stratagem 20: Fish in Troubled Waters
