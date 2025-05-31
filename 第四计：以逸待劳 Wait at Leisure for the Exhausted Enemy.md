@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第四计：以逸待劳
 
 Stratagem 04: Wait at Leisure for the Exhausted Enemy
