@@ -1,6 +1,6 @@
 # The-36-Stratagems-for-Programmers
 
-## *The 36 Stratagems for Programmers* （《程序员的三十六计》）**
+## *The 36 Stratagems for Programmers 《程序员的三十六计》* **
 
 | No. | Stratagem Title (English)                                | 计名（中文） |
 | --- | -------------------------------------------------------- | ------ |
