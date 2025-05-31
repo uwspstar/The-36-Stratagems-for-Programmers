@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第八计：暗渡陈仓
 
 Stratagem 08: Secretly Take the Route of Chencang
