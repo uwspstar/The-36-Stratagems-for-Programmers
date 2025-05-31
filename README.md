@@ -27,17 +27,17 @@
 | 21  | The Cicada Sheds Its Shell                               | [金蝉脱壳](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%AE%A1%EF%BC%9A%E9%87%91%E8%9D%89%E8%84%B1%E5%A3%B3%20The%20Cicada%20Sheds%20Its%20Shell.md)   |
 | 22  | Shut the Door and Catch the Thief                        | [关门捉贼](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%AE%A1%EF%BC%9A%E5%85%B3%E9%97%A8%E6%8D%89%E8%B4%BC%20Shut%20the%20Door%20and%20Catch%20the%20Thief.md)  |
 | 23  | Befriend a Distant State While Attacking a Neighbor      | [远交近攻](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E8%AE%A1%EF%BC%9A%E8%BF%9C%E4%BA%A4%E8%BF%91%E6%94%BB%20Befriend%20Distant%20States%20While%20Attacking%20Nearby%20Ones.md)   |
-| 24  | Obtain Safe Passage to Conquer the Kingdom               | [假道伐虢]()   |
-| 25  | Replace the Beams with Rotten Timbers                    | [偷梁换柱]()   |
-| 26  | Point at the Mulberry Tree While Cursing the Locust Tree | [指桑骂槐]()   |
-| 27  | Feign Madness But Keep Your Balance                      | [假痴不癫]()   |
-| 28  | Remove the Ladder When the Enemy Has Ascended            | [上屋抽梯]()   |
-| 29  | Decorate the Tree with Fake Blossoms                     | [树上开花]()   |
-| 30  | Turn the Guest into the Host                             | [反客为主]()   |
-| 31  | Use a Beauty Trap                                        | [美人计]()    |
-| 32  | Use an Empty City Stratagem                              | [空城计]()    |
-| 33  | Let the Enemy's Spies Sow Discord                        | [反间计]()    |
-| 34  | Inflict Injury on Yourself to Gain Trust                 | [苦肉计]()    |
-| 35  | Chain Stratagems                                         | [连环计]()    |
-| 36  | If All Else Fails, Retreat                               | [走为上计]()   |
+| 24  | Obtain Safe Passage to Conquer the Kingdom               | [假道伐虢](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%EF%BC%9A%E5%81%87%E9%81%93%E4%BC%90%E8%99%A2%20Obtain%20Safe%20Passage%20to%20Conquer%20the%20Kingdom.md)   |
+| 25  | Replace the Beams with Rotten Timbers                    | [偷梁换柱](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E8%AE%A1%EF%BC%9A%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%20Replace%20the%20Beams%20with%20Rotten%20Timbers.md)   |
+| 26  | Point at the Mulberry Tree While Cursing the Locust Tree | [指桑骂槐](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E8%AE%A1%EF%BC%9A%E6%8C%87%E6%A1%91%E9%AA%82%E6%A7%90%20Point%20at%20the%20Mulberry%20Tree%20While%20Cursing%20the%20Locust%20Tree.md)   |
+| 27  | Feign Madness But Keep Your Balance                      | [假痴不癫](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E8%AE%A1%EF%BC%9A%E5%81%87%E7%97%B4%E4%B8%8D%E7%99%AB%20Feign%20Madness%20But%20Keep%20Your%20Balance.md)   |
+| 28  | Remove the Ladder When the Enemy Has Ascended            | [上屋抽梯](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E8%AE%A1%EF%BC%9A%E4%B8%8A%E5%B1%8B%E6%8A%BD%E6%A2%AF%20Remove%20the%20Ladder%20When%20the%20Enemy%20Has%20Ascended.md)   |
+| 29  | Decorate the Tree with Fake Blossoms                     | [树上开花](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E8%AE%A1%EF%BC%9A%E6%A0%91%E4%B8%8A%E5%BC%80%E8%8A%B1%20Decorate%20the%20Tree%20with%20Fake%20Blossoms.md)   |
+| 30  | Turn the Guest into the Host                             | [反客为主](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E8%AE%A1%EF%BC%9A%E5%8F%8D%E5%AE%A2%E4%B8%BA%E4%B8%BB%20Turn%20the%20Guest%20into%20the%20Host.md)   |
+| 31  | Use a Beauty Trap                                        | [美人计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E8%AE%A1%EF%BC%9A%E7%BE%8E%E4%BA%BA%E8%AE%A1%20Use%20a%20Beauty%20Trap.md)    |
+| 32  | Use an Empty City Stratagem                              | [空城计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AE%A1%EF%BC%9A%E7%A9%BA%E5%9F%8E%E8%AE%A1%20Use%20an%20Empty%20City%20Stratagem.md)    |
+| 33  | Let the Enemy's Spies Sow Discord                        | [反间计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E8%AE%A1%EF%BC%9A%E5%8F%8D%E9%97%B4%E8%AE%A1%20Let%20the%20Enemy's%20Spies%20Sow%20Discord.md)    |
+| 34  | Inflict Injury on Yourself to Gain Trust                 | [苦肉计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E8%AE%A1%EF%BC%9A%E8%8B%A6%E8%82%89%E8%AE%A1%20Inflict%20Injury%20on%20Yourself%20to%20Gain%20Trust.md)    |
+| 35  | Chain Stratagems                                         | [连环计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E8%AE%A1%EF%BC%9A%E8%BF%9E%E7%8E%AF%E8%AE%A1%20Chain%20Stratagems.md)    |
+| 36  | If All Else Fails, Retreat                               | [走为上计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1%EF%BC%9A%E8%B5%B0%E4%B8%BA%E4%B8%8A%E8%AE%A1%20Retreat%20Is%20the%20Best%20Option.md)   |
 
