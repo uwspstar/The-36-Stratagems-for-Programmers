@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第三十三计：反间计
 
 Stratagem 33: Let the Enemy's Spies Sow Discord
