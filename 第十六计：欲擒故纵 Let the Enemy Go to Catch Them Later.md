@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十六计：欲擒故纵
 
 Stratagem 16: Let the Enemy Go to Catch Them Later
