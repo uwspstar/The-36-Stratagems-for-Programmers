@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十八计：上屋抽梯
 
 Stratagem 28: Remove the Ladder When the Enemy Has Ascended
