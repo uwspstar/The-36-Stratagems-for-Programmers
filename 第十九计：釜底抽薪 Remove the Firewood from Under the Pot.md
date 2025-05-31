@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十九计：釜底抽薪
 
 Stratagem 19: Remove the Firewood from Under the Pot
