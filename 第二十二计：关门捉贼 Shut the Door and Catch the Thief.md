@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十二计：关门捉贼
 
 Stratagem 22: Shut the Door and Catch the Thief
