@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十八计：擒贼擒王
 
 Stratagem 18: Capture the Thief First to Capture the King
