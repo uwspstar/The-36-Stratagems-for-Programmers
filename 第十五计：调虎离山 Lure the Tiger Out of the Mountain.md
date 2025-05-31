@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十五计：调虎离山
 
 Stratagem 15: Lure the Tiger Out of the Mountain
