@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第三计：借刀杀人
 
 Stratagem 03: Kill with a Borrowed Knife
