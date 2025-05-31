@@ -139,3 +139,5 @@ GitHub, website, QR pages GitHub、官网、扫码页
 
 ![36back_cover](https://github.com/user-attachments/assets/a0ba4c38-a977-4f85-8ade-5f3cd3001588)
 
+作者：王星 Xing Wang
+联合作者：王阳（Allen Wang）
