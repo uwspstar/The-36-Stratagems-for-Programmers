@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十四计：假道伐虢
 
 Stratagem 24: Obtain Safe Passage to Conquer the Kingdom
