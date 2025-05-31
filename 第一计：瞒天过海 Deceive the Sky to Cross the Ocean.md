@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第一计：瞒天过海 
 
 Stratagem 01: Deceive the Sky to Cross the Ocean
