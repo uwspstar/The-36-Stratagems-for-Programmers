@@ -4,7 +4,7 @@
 
 ## The 36 Stratagems for Programmers 《程序员的三十六计》
 
-### 📝 Preface 前言
+### Preface 前言
 
 Programmers are not soldiers, yet we fight silent battles every day.
 程序员不是士兵，却每日征战在看不见的战场。
@@ -27,9 +27,9 @@ Spring 2025 · 春·2025
 
 ---
 
-### 👨‍💻 About the Authors 关于作者
+### About the Authors 关于作者
 
-### 👨‍💻 Xing Wang
+### Xing Wang
 <img src="https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715" width="200" alt="Resized Xing Image">
 
 **Xing Wang** is a senior software architect with over 15 years of experience in enterprise systems, microservice architecture, DevOps engineering, and applied AI.
@@ -45,7 +45,7 @@ His writings combine technology, philosophy, and visual thinking to help enginee
 他的写作融合技术、哲学与图形思维，致力于帮助开发者在复杂中洞察本质。
 
 
-### 🤝 Allen Wang
+### Allen Wang
 <img src="https://github.com/user-attachments/assets/8b9e3d28-9ee4-4007-9fb8-89e07ad0232d" width="200" alt="Allen" />
 
 **Allen Wang** is a senior software architect and full-stack developer with deep expertise in system observability, domain-driven design, and cross-team engineering workflows.
@@ -107,7 +107,7 @@ His philosophy: **“If it can’t be explained simply, it hasn’t been underst
 
 ---
 
-### 📚 Chapter Structure 正文结构
+### Chapter Structure 正文结构
 
 Each stratagem includes: 每一计均包含：
 
@@ -120,7 +120,7 @@ Each stratagem includes: 每一计均包含：
 
 ---
 
-### 📎 Appendix 附录结构
+### Appendix 附录结构
 
 **A. Strategy Index / 策略索引**
 Map real-world dev problems to stratagems 将开发难题与三十六计对应映射
