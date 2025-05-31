@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第六计：声东击西
 
 Stratagem 06: Make a Feint to the East While Attacking in the West
