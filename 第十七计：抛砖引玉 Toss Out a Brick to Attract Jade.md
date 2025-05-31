@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十七计：抛砖引玉
 
 Stratagem 17: Toss Out a Brick to Attract Jade
