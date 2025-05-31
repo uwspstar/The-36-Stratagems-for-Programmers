@@ -1,7 +1,70 @@
 # 《程序员的三十六计》The-36-Stratagems-for-Programmers
-![36_front_cover](https://github.com/user-attachments/assets/27e197e0-60b2-4a83-b8bc-19963ff78103)
+![36_front_cover](https://github.com/user-attachments/assets/16c3af1f-e972-445e-a8d6-33015d458094)
+
 
 ## The 36 Stratagems for Programmers 《程序员的三十六计》
+
+### 📝 Preface 前言
+
+Programmers are not soldiers, yet we fight silent battles every day.
+程序员不是士兵，却每日征战在看不见的战场。
+
+From architectural debates to deployment pressure, from team politics to tech stack migration—these are all forms of modern-day warfare.
+从架构博弈到部署压力，从团队协作到技术选型迁移，处处皆为战局。
+
+This book is not meant to teach you to manipulate, but to help you see clearly, plan wisely, and act with intention.
+本书并非教你“算计”，而是助你洞察大局、巧施谋略、智慧应对。
+
+By combining ancient Eastern wisdom with modern programming, we offer 36 strategic mindsets for developers.
+我们将东方兵法与现代开发实践结合，提炼出 36 计技术谋略，赋予开发者更多维度的思考力。
+
+May this book become your strategic companion in code.
+愿此书成为你代码世界中的谋略之友。
+
+— Xing Wang & Allen Wang
+—— 王星 / 王阳
+Spring 2025 · 春·2025
+
+---
+
+### 👨‍💻 About the Authors 关于作者
+
+### 👨‍💻 Xing Wang
+<img src="https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715" width="200" alt="Resized Xing Image">
+
+**Xing Wang** is a senior software architect with over 15 years of experience in enterprise systems, microservice architecture, DevOps engineering, and applied AI.
+**Xing Wang** 是一位拥有 15 年以上经验的资深软件架构师，专注于企业系统、微服务架构、DevOps 工程与人工智能应用。
+
+As a strategic thinker, he is passionate about blending classical Chinese military wisdom with software design.
+作为一位具备战略思维的工程师，他热衷于将中国古代兵法智慧融入现代软件设计。
+
+He advocates for “strategic coding”—writing code not only for functionality, but for long-term maintainability, resilience, and influence.
+他提出“战略性编码”理念，强调代码不仅要能运行，还应具备可维护性、韧性与技术影响力。
+
+His writings combine technology, philosophy, and visual thinking to help engineers gain clarity in complexity.
+他的写作融合技术、哲学与图形思维，致力于帮助开发者在复杂中洞察本质。
+
+
+### 🤝 Allen Wang
+<img src="https://github.com/user-attachments/assets/8b9e3d28-9ee4-4007-9fb8-89e07ad0232d" width="200" alt="Allen" />
+
+**Allen Wang** is a senior software architect and full-stack developer with deep expertise in system observability, domain-driven design, and cross-team engineering workflows.
+**Allen Wang** 是一位资深软件架构师与全栈开发者，专长于系统可观测性、领域建模以及跨团队协作流程设计。
+
+He plays a vital role in transforming abstract ideas into tangible diagrams, stories, and architectural maps.
+他擅长将抽象概念具象化，通过图表、类比与技术叙事形式，提升团队的技术共识与执行力。
+
+He contributed to the structure, voice, and visual narrative of this book, refining both the English and Chinese versions.
+他为本书中英双语内容的架构、语气与图示表达设计提供了关键支持。
+
+Outside of coding, he is passionate about teaching, diagram-based learning, and building developer education tools.
+在编码之外，他热衷于教学、图解学习法以及开发者学习体验工具的设计。
+
+His philosophy: **“If it can’t be explained simply, it hasn’t been understood deeply.”**
+他的理念是：“解释不清楚的东西，自己也没理解透。”
+
+---
+
 
 | No. | Stratagem Title (English)                                | 计名（中文） |
 | --- | -------------------------------------------------------- | ------ |
@@ -41,4 +104,38 @@
 | 34  | Inflict Injury on Yourself to Gain Trust                 | [苦肉计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E8%AE%A1%EF%BC%9A%E8%8B%A6%E8%82%89%E8%AE%A1%20Inflict%20Injury%20on%20Yourself%20to%20Gain%20Trust.md)    |
 | 35  | Chain Stratagems                                         | [连环计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E8%AE%A1%EF%BC%9A%E8%BF%9E%E7%8E%AF%E8%AE%A1%20Chain%20Stratagems.md)    |
 | 36  | If All Else Fails, Retreat                               | [走为上计](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1%EF%BC%9A%E8%B5%B0%E4%B8%BA%E4%B8%8A%E8%AE%A1%20Retreat%20Is%20the%20Best%20Option.md)   |
+
+---
+
+### 📚 Chapter Structure 正文结构
+
+Each stratagem includes: 每一计均包含：
+
+* Original Explanation 原文解读
+* Programmer's Interpretation 程序员翻译
+* Practical Scenarios 应用场景
+* C# Sample Code 示例代码
+* Mermaid Flow Diagram Mermaid 流程图
+* Tactical Maxim 战略格言（中英）
+
+---
+
+### 📎 Appendix 附录结构
+
+**A. Strategy Index / 策略索引**
+Map real-world dev problems to stratagems 将开发难题与三十六计对应映射
+
+**B. Diagram Atlas / 图表总览**
+All Mermaid charts in one place 集中展示所有 Mermaid 图
+
+**C. Strategic Thinking Models / 策略思维模型**
+From code to architecture to organization 从代码到架构到组织的策略思考路径
+
+**D. Recommended Reading / 推荐阅读**
+Eastern classics + developer books 东方典籍与程序员经典书籍推荐
+
+**E. Contact & Updates / 联系作者 & 获取更新**
+GitHub, website, QR pages GitHub、官网、扫码页
+
+![36back_cover](https://github.com/user-attachments/assets/a0ba4c38-a977-4f85-8ade-5f3cd3001588)
 
