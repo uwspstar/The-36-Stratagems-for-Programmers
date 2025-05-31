@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第三十二计：空城计
 
 Stratagem 32: Use an Empty City Stratagem
