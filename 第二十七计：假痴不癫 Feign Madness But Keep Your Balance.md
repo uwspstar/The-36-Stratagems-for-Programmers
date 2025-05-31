@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十七计：假痴不癫
 
 Stratagem 27: Feign Madness But Keep Your Balance
