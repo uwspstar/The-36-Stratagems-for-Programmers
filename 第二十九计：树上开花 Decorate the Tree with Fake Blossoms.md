@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十九计：树上开花
 
 Stratagem 29: Decorate the Tree with Fake Blossoms
