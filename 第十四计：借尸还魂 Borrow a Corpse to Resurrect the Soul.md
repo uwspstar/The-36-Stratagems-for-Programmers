@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第十四计：借尸还魂
 
 Stratagem 14: Borrow a Corpse to Resurrect the Soul
