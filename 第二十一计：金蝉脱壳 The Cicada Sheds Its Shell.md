@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第二十一计：金蝉脱壳
 
 Stratagem 21: The Cicada Sheds Its Shell
