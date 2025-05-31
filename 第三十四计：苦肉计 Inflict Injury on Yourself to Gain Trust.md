@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第三十四计：苦肉计
 
 Stratagem 34: Inflict Injury on Yourself to Gain Trust
