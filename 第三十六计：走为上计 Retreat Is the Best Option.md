@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-36-Stratagems-for-Programmers/blob/main/Index.md)
+
 # 第三十六计：走为上计
 
 Stratagem 36: Retreat Is the Best Option
