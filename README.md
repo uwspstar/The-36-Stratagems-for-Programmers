@@ -137,6 +137,8 @@ Eastern classics + developer books 东方典籍与程序员经典书籍推荐
 **E. Contact & Updates / 联系作者 & 获取更新**
 GitHub, website, QR pages GitHub、官网、扫码页
 
+[三十六计](https://web.archive.org/web/20140222133848/http://www.cob.sjsu.edu/jiang_w/winter2012/ClassMaterials/36stratagems.pdf)
+
 ![36back_cover](https://github.com/user-attachments/assets/a0ba4c38-a977-4f85-8ade-5f3cd3001588)
 
 作者：王星 Xing Wang
